@@ -1362,8 +1362,9 @@ a.back span {
 
 /* Button Primary */
 .btn--primary {
-	background-color: #ff4e00;
-	color           : #ffffff;
+	/*background-color: #ff4e00;*/
+	background-color: #ffffff;
+	color           : #ff4e00;
 }
 
 .btn--primary:active,
@@ -1630,7 +1631,8 @@ a.back span {
 
 .heading .heading-title {
 	font-family   : "Montserrat", sans-serif;
-	color         : #212529;
+	color         : #ffffff;
+	/*color         : #212529;*/
 	font-size     : 30px;
 	font-weight   : 700;
 	line-height   : 1.5;
@@ -1643,7 +1645,8 @@ a.back span {
 	font-size    : 16px;
 	font-weight  : 400;
 	line-height  : 24px;
-	color        : #868E96;
+	color        : #ffffff;
+	/*color        : #868E96;*/
 	margin-bottom: 0;
 	padding      : 0;
 }
@@ -1778,7 +1781,8 @@ a.back span {
 	text-transform    : capitalize;
 	font-weight       : 500;
 	line-height       : 139px;
-	color             : #212529;
+	color             : #ffffff;
+	/*color             : #212529;*/
 	padding           : 0;
 	position          : relative;
 	display           : block;
@@ -1790,7 +1794,7 @@ a.back span {
 .header .navbar .navbar-nav>li.active>a,
 .header .navbar .navbar-nav>li>a:focus,
 .header .navbar .navbar-nav>li>a:hover {
-	color: #ff4e00;
+	color: #212529;
 }
 
 @media screen and (max-width: 991px) {
@@ -1952,7 +1956,8 @@ a.back span {
 	.navbar .navbar-toggler .navbar-toggler-icon {
 		width             : 100%;
 		height            : 2px;
-		background-color  : #ff4e00;
+		background-color  : #ffffff;
+		/*background-color  : #ff4e00;*/
 		position          : relative;
 		-webkit-transition: 0.3s ease-in-out;
 		-o-transition     : 0.3s ease-in-out;
@@ -1966,7 +1971,8 @@ a.back span {
 		left              : 0;
 		height            : 2px;
 		width             : 100%;
-		background-color  : #ff4e00;
+		background-color  : #ffffff;
+		/*background-color  : #ff4e00;*/
 		-webkit-transition: 0.3s ease-in-out;
 		-o-transition     : 0.3s ease-in-out;
 		transition        : 0.3s ease-in-out;
@@ -2177,7 +2183,8 @@ a.back span {
 }
 
 .hero .hero-cotainer .hero-content .hero-headline {
-	color         : #212529;
+	color         : #ffffff;
+	/*color         : #212529;*/
 	font-family   : "Montserrat", sans-serif;
 	font-size     : 55px;
 	font-weight   : 700;
@@ -2193,7 +2200,8 @@ a.back span {
 }
 
 .hero .hero-cotainer .hero-content .hero-bio {
-	color        : #868E96;
+	/*color        : #868E96;*/
+	color        : #ffffff;
 	font-family  : "Roboto", sans-serif;
 	font-size    : 18px;
 	font-weight  : 400;
@@ -3069,7 +3077,7 @@ a.back span {
 
 .cta h3 {
 	font-family   : "Montserrat", sans-serif;
-	color         : #212529;
+	color         : #ffffff;
 	font-size     : 65px;
 	font-weight   : 700;
 	line-height   : 75px;
@@ -3091,7 +3099,7 @@ a.back span {
 }
 
 .cta p {
-	color        : #868E96;
+	color        : #ffffff;
 	font-size    : 18px;
 	font-weight  : 400;
 	line-height  : 1.5;
@@ -3916,7 +3924,8 @@ a.back span {
 
 .skills .progress-title .title {
 	font-family  : "Montserrat", sans-serif;
-	color        : #212529;
+	color        : #ffffff;
+	/*color        : #212529;*/
 	font-size    : 14px;
 	font-weight  : 700;
 	line-height  : 21px;
